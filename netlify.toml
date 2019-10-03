@@ -1,0 +1,4 @@
+[build]
+base = "products-api-client/"
+publish = "products-api-client/build/"
+command = "npm run build"

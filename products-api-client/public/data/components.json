@@ -1,0 +1,335 @@
+[
+    {
+        "id": "D6202-1-40",
+        "name": "Xpedition Lysis Solution/Stabilization Solution",
+        "sku": null,
+        "price": 82,
+        "zrePrice": 82,
+        "shopifyID": 20081827381318,
+        "zreShopifyID": 20063752093807,
+        "option": "40 ml",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/D6202-1-40_Xpedition Lysis Solution Stabilization Solution 40 ml.png",
+        "highlightA": "For the collection and prolonged storage of samples.",
+        "highlightB": "Preservation of DNA in stored samples.",
+        "highlightC": "Used in conjunction with mechanical lysis.",
+        "description": "Xpedition Lysis/Stabilization Solution is used in conjunction with mechanical lysis for efficient extraction/preservation of DNA in sample lysates for long periods of time without the need for refrigeration.",
+        "shortDescription": "Xpedition Lysis/Stabilization Solution is used in conjunction with mechanical lysis for efficient extraction/preservation of DNA in sample lysates for long periods of time without the need for refrigeration.",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.2,
+        "height": 0,
+        "width": 0,
+        "length": 1.6
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-06-10T19:40:46.96Z",
+        "createdOn": "2019-06-10T19:40:46.96Z"
+    },
+    {
+        "id": "D3062-1",
+        "name": "Urine Collection Cup",
+        "sku": null,
+        "price": 15,
+        "zrePrice": 15,
+        "shopifyID": 20081827315782,
+        "zreShopifyID": 20063752061039,
+        "option": "1 Pack",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/D3062-1_Urine-Collection-Cup.jpg",
+        "highlightA": "Small, easy to use urine collection device.",
+        "highlightB": "Works well with Urine Conditioning Buffer for prolonged storage and safe transport of urine samples.",
+        "highlightC": "",
+        "description": "Plastic urine collection cup for use in research and diagnostic labs. For collecting urine specimens.",
+        "shortDescription": "Plastic urine collection cup for collecting urine.",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.45,
+        "height": 0,
+        "width": 0,
+        "length": 1.4
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-05-20T22:05:26.633Z",
+        "createdOn": "2019-05-20T22:05:26.633Z"
+    },
+    {
+        "id": "R1100-50",
+        "name": "DNA/RNA Shield",
+        "sku": null,
+        "price": 68,
+        "zrePrice": 68,
+        "shopifyID": 20081827414086,
+        "zreShopifyID": 20063752126575,
+        "option": "50 ml",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/R1100-50-DNA-RNA-Shield-Reagent-50ml.jpg",
+        "highlightA": "",
+        "highlightB": "",
+        "highlightC": "",
+        "description": "DNA/RNA Shield reagent is a DNA and RNA stabilization solution for nucleic acids in any biological sample. This DNA and RNA stabilization solution preserves the genetic integrity and expression profiles of samples at ambient temperatures and completely inactivates infectious agents (viruses, bacteria, fungi, & parasites). The unique DNA and RNA stabilization solution also prevents degradation from freeze-thaw cycling and unexpected freezer failures. <br /><br /><a style='text-decoration: underline;' href='/pages/dna-rna-shield' target='_blank' rel='noopener noreferrer'>Learn More</a>",
+        "shortDescription": "DNA/RNA transport medium for any sample",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.2,
+        "height": 0,
+        "width": 0,
+        "length": 1.6
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-06-06T00:01:32.037Z",
+        "createdOn": "2019-06-06T00:01:32.037Z"
+    },
+    {
+        "id": "R1100-250",
+        "name": "DNA/RNA Shield",
+        "sku": null,
+        "price": 241,
+        "zrePrice": 241,
+        "shopifyID": 20081827446854,
+        "zreShopifyID": 20063752159343,
+        "option": "250 ml",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/R1100-250-DNA-RNA-Shield.jpg",
+        "highlightA": "",
+        "highlightB": "",
+        "highlightC": "",
+        "description": "DNA/RNA Shield reagent is a DNA and RNA stabilization solution for nucleic acids in any biological sample. This DNA and RNA stabilization solution preserves the genetic integrity and expression profiles of samples at ambient temperatures and completely inactivates infectious agents (viruses, bacteria, fungi, & parasites). The unique DNA and RNA stabilization solution also prevents degradation from freeze-thaw cycling and unexpected freezer failures. <br /><br /><a style='text-decoration: underline;' href='/pages/dna-rna-shield' target='_blank' rel='noopener noreferrer'>Learn More</a>",
+        "shortDescription": "DNA/RNA transport medium for any sample",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.7,
+        "height": 0,
+        "width": 0,
+        "length": 2.4
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-06-06T00:01:32.037Z",
+        "createdOn": "2019-06-06T00:01:32.037Z"
+    },
+    {
+        "id": "R1200-125",
+        "name": "DNA/RNA Shield (2X Concentrate)",
+        "sku": null,
+        "price": 241,
+        "zrePrice": 241,
+        "shopifyID": 20081827512390,
+        "zreShopifyID": 20063752224879,
+        "option": "125 ml",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/R1200-125-DNA-RNA-Shield-2x Concentrate.jpg",
+        "highlightA": "",
+        "highlightB": "",
+        "highlightC": "",
+        "description": "DNA/RNA Shield reagent is a DNA and RNA stabilization solution for nucleic acids in any biological sample. This DNA and RNA stabilization solution preserves the genetic integrity and expression profiles of samples at ambient temperatures and completely inactivates infectious agents (viruses, bacteria, fungi, & parasites). The unique DNA and RNA stabilization solution also prevents degradation from freeze-thaw cycling and unexpected freezer failures. <br /><br /><a style='text-decoration: underline;' href='/pages/dna-rna-shield' target='_blank' rel='noopener noreferrer'>Learn More</a>",
+        "shortDescription": "DNA/RNA transport medium for any sample",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 5.2,
+        "height": 0,
+        "width": 0,
+        "length": 1.6
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-06-06T00:01:32.037Z",
+        "createdOn": "2019-06-06T00:01:32.037Z"
+    },
+    {
+        "id": "R1101-1-10",
+        "name": "Feces Catcher",
+        "sku": null,
+        "price": 5,
+        "zrePrice": 5,
+        "shopifyID": 20081828233286,
+        "zreShopifyID": 20063752716399,
+        "option": "10 pack",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/r1101-1-10_feces_catcher.png",
+        "highlightA": "Easy and hygienic collection of human fecal samples.",
+        "highlightB": "Small, light-weight, and flushable",
+        "highlightC": "Lower cost compared to standard methods.",
+        "description": "Feces Catcher is a strip of paper that fits onto any toilet seat. It allows for an easy method to collect fecal samples for further testing. The Feces Catcher is a great addition to DNA/RNA Shield Fecal Collection Tubes, Swab tubes, and Lysis tubes.",
+        "shortDescription": "Easy and hygienic collection of human fecal samples.",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.1,
+        "height": 0,
+        "width": 0,
+        "length": 0.4
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-02-19T20:16:58.613Z",
+        "createdOn": "2019-02-19T20:16:58.613Z"
+    },
+    {
+        "id": "R1103",
+        "name": "DNA/RNA Shield Lysis Tubes (microbe)",
+        "sku": null,
+        "price": 250,
+        "zrePrice": 250,
+        "shopifyID": 20081828331590,
+        "zreShopifyID": 20063752781935,
+        "option": "50 pack",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/R1103-DNA-RNA-Shield-Lysis-Tube-(Microbe).jpg",
+        "highlightA": "",
+        "highlightB": "",
+        "highlightC": "",
+        "description": "DNA/RNA Shield Lysis and Collection tubes are microbial lysis tubes and bead beating tubes designed for the streamlined collection, transport, and processing of biological specimen. The microbial lysis tubes and bead beating tubes are pre-filled with DNA/RNA Shield and a lysis matrix tailored for tough-to-lyse- sample inputs from tissue to microbial samples. Collected samples do not require additional handling for processing and are ready for homogenization. Bead sizes include 0.5mm & 0.1mm (R1103 and R1104) and 2.0mm (R1105). <br /><br /><a style='text-decoration: underline;' href='/pages/dna-rna-shield' target='_blank' rel='noopener noreferrer'>Learn More</a>",
+        "shortDescription": "DNA/RNA transport tubes for any sample ready for homogenization.",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.9,
+        "height": 0,
+        "width": 0,
+        "length": 5
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-04-11T07:09:47.9Z",
+        "createdOn": "2019-04-11T07:09:47.9Z"
+    },
+    {
+        "id": "R1200-25",
+        "name": "DNA/RNA Shield (2X Concentrate)",
+        "sku": null,
+        "price": 68,
+        "zrePrice": 68,
+        "shopifyID": 20081827479622,
+        "zreShopifyID": 20063752192111,
+        "option": "25 ml",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/R1200-25_DNA-RNA-Shield-2X-Concentrate-25-mL.jpg",
+        "highlightA": "",
+        "highlightB": "",
+        "highlightC": "",
+        "description": "DNA/RNA Shield reagent is a DNA and RNA stabilization solution for nucleic acids in any biological sample. This DNA and RNA stabilization solution preserves the genetic integrity and expression profiles of samples at ambient temperatures and completely inactivates infectious agents (viruses, bacteria, fungi, & parasites). The unique DNA and RNA stabilization solution also prevents degradation from freeze-thaw cycling and unexpected freezer failures. <br /><br /><a style='text-decoration: underline;' href='/pages/dna-rna-shield' target='_blank' rel='noopener noreferrer'>Learn More</a>",
+        "shortDescription": "DNA/RNA transport medium for any sample",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.1,
+        "height": 0,
+        "width": 0,
+        "length": 1.6
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-06-06T00:01:32.037Z",
+        "createdOn": "2019-06-06T00:01:32.037Z"
+    },
+    {
+        "id": "R1101",
+        "name": "DNA/RNA Shield-Fecal Collection Tube",
+        "sku": null,
+        "price": 90,
+        "zrePrice": 90,
+        "shopifyID": 20081828069446,
+        "zreShopifyID": 20063752323183,
+        "option": "10 pack",
+        "webActive": true,
+        "imageUrl": "https://files.zymoresearch.com/product-images/R1101_DNA RNA Shield Fecal Collection Tube.png",
+        "highlightA": "",
+        "highlightB": "",
+        "highlightC": "",
+        "description": "DNA/RNA Shield Fecal Collection tubes are designed for the collection and preservation of nucleic acids from stool specimens. These stool collection tubes take a microbial snapshot of a sample while inactivating viruses making samples safe and ready for transport. Samples stored in the these stool collection tubes are stable at ambient temperature, and can be frozen for longer-term storage. Simply collect a spoonful of the specimen into the stool collection tubes prefilled with preservative and shake vigorously to ensure proper stabilization. <br /><br /><a style='text-decoration: underline;' href='/pages/dna-rna-shield' target='_blank' rel='noopener noreferrer'>Learn More</a>",
+        "shortDescription": "DNA/RNA transport medium for stool samples",
+        "productType": 0,
+        "manufacturingOptions": {
+        "weight": 0.6,
+        "height": 0,
+        "width": 0,
+        "length": 7
+        },
+        "shippingOptions": {
+        "hazardShipping": false,
+        "coldShipping": false,
+        "typeIceShipping": null,
+        "shippingTemp": 23
+        },
+        "documents": {
+        "protocol": "https://files.zymoresearch.com/protocols/_d4301_d4305_zymobiomics_dna_microprep_kit.pdf",
+        "datasheet": "https://files.zymoresearch.com/datasheets/ds1704_zymobiomics_dna_extraction_data_sheet.pdf",
+        "sds": "https://files.zymoresearch.com/sds/_d4301_zymobiomics_dna_microprep_kit.pdf"
+        },
+        "modifiedOn": "2019-04-11T19:09:27.957Z",
+        "createdOn": "2019-04-11T19:09:27.957Z"
+    }
+]

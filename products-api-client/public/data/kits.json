@@ -1,0 +1,107 @@
+[
+    {
+        "id": "D3062",
+        "title": "Urine Collection Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/D3062_Urine-Collection-Kit-with-Urine-Conditioning-Buffer.png",
+        "shortDescription": "Kit for the collection and preservation of DNA and RNA in urine."
+        },
+        {
+        "id": "R1210",
+        "title": "DNA/RNA Shield Saliva Collection Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/R1210_DNA-RNA-Shield-Saliva-Collection-Kit.png",
+        "shortDescription": "DNA/RNA transport medium for saliva"
+        },
+        {
+        "id": "P2007",
+        "title": "MBP-Spin Protein Miniprep Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/P2007_MBP-Spin-Protein-Miniprep-Kit.jpg",
+        "shortDescription": "Fast and simple spin-column method for purifying MBP-tagged proteins from cell lysates."
+        },
+        {
+        "id": "R1011",
+        "title": "Zymoclean Gel RNA Recovery Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/R1011_Zymoclean-Gel-RNA-Recovery-Kit.jpg",
+        "shortDescription": "RNA from agarose gels"
+        },
+        {
+        "id": "R1070",
+        "title": "ZR small-RNA PAGE Recovery Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/R1070_ZR-small-RNA-PAGE-Recovery-Kit.jpg",
+        "shortDescription": "RNA (and DNA) from PAGE gels"
+        },
+        {
+        "id": "Y1002",
+        "title": "Yeast Protein Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/Y1002_Yeast-Protein-Kit.jpg",
+        "shortDescription": "Rapid and thorough lysis of yeast cells for protein and DNA analysis."
+        },
+        {
+        "id": "D4300",
+        "title": "ZymoBIOMICS DNA Miniprep Kit (Lysis Tubes)",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/D4300_ZymoBIOMICS-DNA-Miniprep-Kit.jpg",
+        "shortDescription": "Inhibitor-free microbial DNA from any sample validated for microbiome and metagenomic analyses"
+        },
+        {
+        "id": "D4300T",
+        "title": "ZymoBIOMICS DNA Miniprep Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/D4300_ZymoBIOMICS-DNA-Miniprep-Kit.jpg",
+        "shortDescription": "Inhibitor-free microbial DNA from any sample validated for microbiome and metagenomic analyses"
+        },
+        {
+        "id": "P2004",
+        "title": "Strep-Spin Protein Miniprep Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/P2005_Strep-Spin-Protein-Miniprep-Kit.jpg",
+        "shortDescription": "Fast and simple spin-column method for purifying Strep-tagged proteins from cell lysates."
+        },
+        {
+        "id": "D4304",
+        "title": "ZymoBIOMICS DNA Miniprep Kit (No Lysis Matrix)",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/D4304_ZymoBIOMICS-DNA-Miniprep-Kit_No-lysis-matrix.jpg",
+        "shortDescription": "Inhibitor-free microbial DNA from any sample validated for microbiome and metagenomic analyses"
+        },
+        {
+        "id": "D4303",
+        "title": "ZymoBIOMICS 96 DNA Kit (Lysis Rack)",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/D4303_ZymoBIOMICS-96-DNA-Kit_Lysis-rack.png",
+        "shortDescription": "Inhibitor-free microbial DNA from any sample validated for microbiome and metagenomic analyses"
+        },
+        {
+        "id": "P2006",
+        "title": "MBP-Spin Protein Miniprep Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/P2007_MBP-Spin-Protein-Miniprep-Kit.jpg",
+        "shortDescription": "Fast and simple spin-column method for purifying MBP-tagged proteins from cell lysates."
+        },
+        {
+        "id": "D4307",
+        "title": "ZymoBIOMICS 96 DNA Kit (No Lysis Matrix)",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/D4307_ZymoBIOMICS-96-DNA-Kit_No-lysis-matrix.png",
+        "shortDescription": "Inhibitor-free microbial DNA from any sample validated for microbiome and metagenomic analyses"
+        },
+        {
+        "id": "R1002",
+        "title": "YeaStar RNA Kit",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/R1002_YeaStar-RNA-Kit.jpg",
+        "shortDescription": "Simple spin-column solution for isolating RNA from yeast using Zymolyase."
+        },
+        {
+        "id": "D4001",
+        "title": "Zymoclean Gel DNA Recovery Kit (uncapped)",
+        "sku": null,
+        "imageSrc": "https://files.zymoresearch.com/product-images/D4001_Zymoclean-Gel-DNA-Recovery-Kit.jpg",
+        "shortDescription": "Highly efficient DNA purification from agarose gels."
+        }
+]
